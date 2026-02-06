@@ -1,0 +1,216 @@
+Loading the ModusToolbox Technology Packs and Early Access Packs
+Finished loading the ModusToolbox Technology Packs and Early Access Packs (4 ms)
+Loading the tools information
+Finished loading the tools information (14 ms)
+Loading the application in directory 'C:/Users/Sritharun/mtw/DRNG_SE'
+using cached data from file 'C:/Users/Sritharun/mtw/DRNG_SE/.mtbqueryapi'
+creating application information from 'get_app_info' data
+finished creating application information from 'get_app_info' data (26 ms)
+Finished loading the application data (212 ms total, 0 make)
+Loading asset repository references
+Finished loading the asset repository references (103 ms)
+Loading the manifest data
+Online Content mode has been enabled by default.
+Loading super manfiest files from all sources
+Getting manifests from remote and/or local sources
+Processing system manifest 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Downloading super manifest file 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Finished loading super manifest files from all sources
+Finished download of file 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Starting to parse super manifest with URL 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Finished parsing super manifest with URL 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/cce-app-manifest/raw/v2.X/cce-app-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Altia-Marketing/altia-ce-manifest/raw/main/altia-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/avnet-iotconnect/avnet-iotc-mtb-ce-manifest/raw/main/avnet-iotc-mtb-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/CyberonEBU/cyberon-mtb-ce-manifest/raw/main/cyberon-mtb-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/edgeimpulse/edgeimpulse-ce-manifest/raw/main/edgeimpulse-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/golioth/mtb-golioth-ce-manifest/raw/main/mtb-golioth-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/memfault/mtb-memfault-ce-manifest/raw/main/mtb-memfault-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/rtlabs-com/mtb-rtlabs-manifest/raw/main/mtb-ce-manifest-fv2-rtlabs.xml'
+Downloading manifest file 'https://github.com/RutronikSystemSolutions/rutronik-ce-manifest/raw/main/rutronik-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/sensiml/sensiml-ce-manifest/raw/main/sensiml-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-capabilities-manifest.json'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Inventek/inventek-bsp-manifest/raw/main/inventek-bsp-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Inventek/inventek-bsp-manifest/raw/main/inventek-bsp-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/RutronikSystemSolutions/rutronik-bsp-manifest/raw/main/rutronik-bsp-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/RutronikSystemSolutions/rutronik-bsp-manifest/raw/main/rutronik-bsp-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/avnet-iotconnect/avnet-iotc-mtb-mw-manifest/raw/main/avnet-iotc-mtb-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/CyberonEBU/cyberon-mtb-mw-manifest/raw/main/cyberon-mtb-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/golioth/mtb-golioth-mw-manifest/raw/main/mtb-golioth-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/memfault/mtb-memfault-mw-manifest/raw/main/mtb-memfault-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/rtlabs-com/mtb-rtlabs-manifest/raw/main/rtlabs-mtb-mw-manifest-fw2-rtlabs.xml'
+Downloading manifest file 'https://github.com/sensiml/sensiml-mw-manifest/raw/main/sensiml-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/cce-app-manifest/raw/v2.X/cce-app-manifest-fv2.xml'
+Finished download of file 'https://github.com/Altia-Marketing/altia-ce-manifest/raw/main/altia-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/avnet-iotconnect/avnet-iotc-mtb-ce-manifest/raw/main/avnet-iotc-mtb-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/CyberonEBU/cyberon-mtb-ce-manifest/raw/main/cyberon-mtb-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/edgeimpulse/edgeimpulse-ce-manifest/raw/main/edgeimpulse-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/golioth/mtb-golioth-ce-manifest/raw/main/mtb-golioth-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/memfault/mtb-memfault-ce-manifest/raw/main/mtb-memfault-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/rtlabs-com/mtb-rtlabs-manifest/raw/main/mtb-ce-manifest-fv2-rtlabs.xml'
+Finished download of file 'https://github.com/RutronikSystemSolutions/rutronik-ce-manifest/raw/main/rutronik-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/sensiml/sensiml-ce-manifest/raw/main/sensiml-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-capabilities-manifest.json'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Inventek/inventek-bsp-manifest/raw/main/inventek-bsp-manifest-fv2.xml'
+Finished download of file 'https://github.com/Inventek/inventek-bsp-manifest/raw/main/inventek-bsp-dependencies-manifest.xml'
+Finished download of file 'https://github.com/RutronikSystemSolutions/rutronik-bsp-manifest/raw/main/rutronik-bsp-manifest-fv2.xml'
+Finished download of file 'https://github.com/RutronikSystemSolutions/rutronik-bsp-manifest/raw/main/rutronik-bsp-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-dependencies-manifest.xml'
+Finished download of file 'https://github.com/avnet-iotconnect/avnet-iotc-mtb-mw-manifest/raw/main/avnet-iotc-mtb-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/CyberonEBU/cyberon-mtb-mw-manifest/raw/main/cyberon-mtb-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/golioth/mtb-golioth-mw-manifest/raw/main/mtb-golioth-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/memfault/mtb-memfault-mw-manifest/raw/main/mtb-memfault-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/rtlabs-com/mtb-rtlabs-manifest/raw/main/rtlabs-mtb-mw-manifest-fw2-rtlabs.xml'
+Finished download of file 'https://github.com/sensiml/sensiml-mw-manifest/raw/main/sensiml-mw-manifest-fv2.xml'
+Finished loading the manifest data (5215 ms)
+Starting to refresh dependencies for project 'mtb-example-empty-app'.
+Refreshed all dependencies for project 'mtb-example-empty-app'.
+0 error(s), 0 warning(s)
+Successfully acquired the information.
+Requested to add the asset 'optiga-trust-m'.
+Requested to add the asset 'retarget-io'.
+Starting to refresh dependencies for project 'mtb-example-empty-app'.
+Refreshed all dependencies for project 'mtb-example-empty-app'.
+
+Starting to refresh dependencies for project 'mtb-example-empty-app'.
+Refreshed all dependencies for project 'mtb-example-empty-app'.
+
+Changelog for project "DRNG_SE":
+optiga-trust-m version release-v5.3.0 added
+retarget-io version release-v1.7.0 added
+
+Click "Update" to commit the changesUpdating application "DRNG_SE" ...
+Starting to commit changes to the filesystem and project 'mtb-example-empty-app'.
+Writing mtb file for asset 'optiga-trust-m' to the folder 'C:/Users/Sritharun/mtw/DRNG_SE/deps'.
+Writing mtb file for asset 'retarget-io' to the folder 'C:/Users/Sritharun/mtw/DRNG_SE/deps'.
+Git#0>Starting: git -C C:/Users/Sritharun/mtw/mtb_shared/optiga-trust-m/release-v5.3.0 -c advice.detachedHead=false checkout --progress release-v5.3.0
+Git#1>Starting: git -C C:/Users/Sritharun/mtw/mtb_shared/retarget-io/release-v1.7.0 -c advice.detachedHead=false checkout --progress release-v1.7.0
+Git#2>Starting: git -C C:/Users/Sritharun/mtw/mtb_shared/bt-fw-ifx-cyw43012/release-v1.0.0 -c advice.detachedHead=false checkout --progress release-v1.0.0
+Git#3>Starting: git -C C:/Users/Sritharun/mtw/mtb_shared/cat1cm0p/release-v1.8.0 -c advice.detachedHead=false checkout --progress release-v1.8.0
+Git#3>HEAD is now at bc2632e Upload cat1cm0p 1.8.0.508 [3108]
+Git#3>Success: git -C C:/Users/Sritharun/mtw/mtb_shared/cat1cm0p/release-v1.8.0 -c advice.detachedHead=false checkout --progress release-v1.8.0
+Finished processing cat1cm0p
+Git#4>Starting: git -C C:/Users/Sritharun/mtw/mtb_shared/cmsis/release-v5.8.1 -c advice.detachedHead=false checkout --progress release-v5.8.1
+Git#2>HEAD is now at 29aa12b Upload bt-fw-ifx-cyw43012 1.0.0.2595 [3108]
+Git#1>HEAD is now at 9dd4eeb Upload retarget-io [3062]
+Git#2>Success: git -C C:/Users/Sritharun/mtw/mtb_shared/bt-fw-ifx-cyw43012/release-v1.0.0 -c advice.detachedHead=false checkout --progress release-v1.0.0
+Finished processing bt-fw-ifx-cyw43012
+Git#5>Starting: git -C C:/Users/Sritharun/mtw/mtb_shared/core-lib/release-v1.4.3 -c advice.detachedHead=false checkout --progress release-v1.4.3
+Git#1>Success: git -C C:/Users/Sritharun/mtw/mtb_shared/retarget-io/release-v1.7.0 -c advice.detachedHead=false checkout --progress release-v1.7.0
+Finished processing retarget-io
+Git#6>Starting: git -C C:/Users/Sritharun/mtw/mtb_shared/core-make/release-v3.4.1 -c advice.detachedHead=false checkout --progress release-v3.4.1
+Git#0>HEAD is now at f67ec1c Release-5.3.0 (#130)
+Git#0>Success: git -C C:/Users/Sritharun/mtw/mtb_shared/optiga-trust-m/release-v5.3.0 -c advice.detachedHead=false checkout --progress release-v5.3.0
+Git#7>Starting: git -C C:/Users/Sritharun/.modustoolbox/global/device-db/release-v4.20.0 -c advice.detachedHead=false checkout --progress release-v4.20.0
+Git#4>HEAD is now at 7d17679 Upload cmsis 5.8.1.114 [2752]
+Git#4>Success: git -C C:/Users/Sritharun/mtw/mtb_shared/cmsis/release-v5.8.1 -c advice.detachedHead=false checkout --progress release-v5.8.1
+Finished processing cmsis
+Git#8>Starting: git -C C:/Users/Sritharun/mtw/mtb_shared/mtb-hal-cat1/release-v2.6.2 -c advice.detachedHead=false checkout --progress release-v2.6.2
+Git#5>HEAD is now at 1603b9b Upload core-lib [3062]
+Git#6>HEAD is now at 79de3ac Upload core-make 3.4.1.6167 [2900]
+Git#5>Success: git -C C:/Users/Sritharun/mtw/mtb_shared/core-lib/release-v1.4.3 -c advice.detachedHead=false checkout --progress release-v1.4.3
+Finished processing core-lib
+Git#9>Starting: git -C C:/Users/Sritharun/mtw/mtb_shared/mtb-pdl-cat1/release-v3.14.0 -c advice.detachedHead=false checkout --progress release-v3.14.0
+Git#6>Success: git -C C:/Users/Sritharun/mtw/mtb_shared/core-make/release-v3.4.1 -c advice.detachedHead=false checkout --progress release-v3.4.1
+Finished processing core-make
+Git#10>Starting: git -C C:/Users/Sritharun/mtw/mtb_shared/recipe-make-cat1a/release-v2.3.1 -c advice.detachedHead=false checkout --progress release-v2.3.1
+Git#8>HEAD is now at 14e7f49 Upload mtb-hal-cat1 [3108]
+Git#8>Success: git -C C:/Users/Sritharun/mtw/mtb_shared/mtb-hal-cat1/release-v2.6.2 -c advice.detachedHead=false checkout --progress release-v2.6.2
+Finished processing mtb-hal-cat1
+Git#11>Starting: git -C C:/Users/Sritharun/mtw/mtb_shared/optiga-trust-m/release-v5.3.0 -c protocol.file.allow=always submodule update --init --force
+Git#7>HEAD is now at e28726e2 Upload device-db 4.20.0.7450 [3115]
+Git#7>Success: git -C C:/Users/Sritharun/.modustoolbox/global/device-db/release-v4.20.0 -c advice.detachedHead=false checkout --progress release-v4.20.0
+Finished processing device-db
+Git#10>HEAD is now at 6bd7d3d Upload recipe-make-cat1a 2.3.1.6098 [2900]
+Git#10>Success: git -C C:/Users/Sritharun/mtw/mtb_shared/recipe-make-cat1a/release-v2.3.1 -c advice.detachedHead=false checkout --progress release-v2.3.1
+Finished processing recipe-make-cat1a
+Git#9>HEAD is now at 6e1d7a3 Upload mtb-pdl-cat1 3.14.0.38372 [3108]
+Git#9>Success: git -C C:/Users/Sritharun/mtw/mtb_shared/mtb-pdl-cat1/release-v3.14.0 -c advice.detachedHead=false checkout --progress release-v3.14.0
+Finished processing mtb-pdl-cat1
+Submodule path 'external/mbedtls': checked out '555f84735aecdbd76a566cf087ec8425dfb0c8ab'
+Git#11>
+Git#11>Success: git -C C:/Users/Sritharun/mtw/mtb_shared/optiga-trust-m/release-v5.3.0 -c protocol.file.allow=always submodule update --init --force
+Finished processing optiga-trust-m
+Successfully committed changes to the project 'mtb-example-empty-app'.
+0 error(s), 0 warning(s)
+Successfully updated application "DRNG_SE"
+Updating Launch Configurations ...
+Calling "make eclipse" ...
+Tools Directory: C:/Infineon/ModusToolbox/tools_3.3
+Searching installed tools in progress...
+Searching installed tools complete
+Initializing build: mtb-example-empty-app Debug APP_CYSBSYSKIT-DEV-01 GCC_ARM
+Prebuild operations complete
+Auto-discovery in progress...
+Auto-discovery complete
+Commencing build operations...
+Tools Directory: C:/Infineon/ModusToolbox/tools_3.3
+Constructing build rules...
+Build rules construction complete
+==============================================================================
+= Building application =
+==============================================================================
+Generating compilation database file...
+-> ./build/compile_commands.json
+Compilation database file generation complete
+Generated C:/Users/Sritharun/mtw/DRNG_SE/.cproject
+Generated C:/Users/Sritharun/mtw/DRNG_SE/.project
+Generated C:/Users/Sritharun/mtw/DRNG_SE/.mtbLaunchConfigs/DRNG_SE Program (KitProg3_MiniProg4).launch
+Generated C:/Users/Sritharun/mtw/DRNG_SE/.mtbLaunchConfigs/DRNG_SE Erase Device (KitProg3_MiniProg4).launch
+Generated C:/Users/Sritharun/mtw/DRNG_SE/.mtbLaunchConfigs/DRNG_SE Attach (KitProg3_MiniProg4).launch
+Generated C:/Users/Sritharun/mtw/DRNG_SE/.mtbLaunchConfigs/DRNG_SE Debug (KitProg3_MiniProg4).launch
+
+Instructions:
+1. Open Eclipse IDE for ModusToolbox
+2. Select 'Import Existing Application In-Place' from the QuickPanel
+3. Browse to the application root directory
+
+For more information, refer to the Eclipse IDE for ModusToolbox user guide.
+
+Toolchain validation: PASS
+"make eclipse" succeeded
+
+Starting to refresh dependencies for project 'mtb-example-empty-app'.
+Refreshed all dependencies for project 'mtb-example-empty-app'.
+
+Summary:
+Successfully updated application "DRNG_SE"
+Successfully refreshed dependencies.
+Done.
