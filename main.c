@@ -240,11 +240,11 @@ int main(void)
 
     if (verify_status == 0)
     {
-        printf("\r\nSignature VERIFIED SUCCESSFULLY\r\n");
+        printf("\r\SIGNATURE VERIFIED SUCCESSFULLY\r\n");
     }
     else
     {
-        printf("\r\nSignature VERIFICATION FAILED \r\n");
+        printf("\r\SIGNATURE VERIFICATION FAILED \r\n");
     }
 
     /* Free contexts */
@@ -258,3 +258,4 @@ int main(void)
 
 
 }
+
